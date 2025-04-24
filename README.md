@@ -46,7 +46,7 @@ Ensure you have the following installed on your machine:
    git clone https://github.com/NevinRashid/Book_Management.git
 2. Navigate to the Project Directory
    ```bash
-   cd movie-library
+   cd book-task
 3. Install Dependencies
    ```bash
    composer install
