@@ -12,7 +12,7 @@ We have a book management system, so we need several entities:
 3) Between the book and the language, the relationship is (one to many), where one book is written in only one language, while more than one book can be written in a language **(here it was not discussed that the book can be translated into other languages, the intention is the original language of the book)**
 
 ### Description
-This project is a **Book management** built with **Laravel 12** .It allows users to perform **CRUD operations** (Create, Read, Update, Delete) on Book ,It also allows CRUD (create, read, update, delete) operations on author, category, and language. 
+This project is a **Book management** built with **Laravel 12** .It allows users to perform **CRUD operations** (Create, Read, Update, Delete) on Book ,It also allows CRUD (create, update, delete) operations on author, category, and language. 
 
 ### Key Features:
 - **CRUD Operations**: Create, read, update, and delete book in the system .
@@ -21,7 +21,7 @@ This project is a **Book management** built with **Laravel 12** .It allows users
 - **Seeders**: Populate the database with initial data for testing and development.
 
 ### Technologies Used:
-- **Laravel 10**
+- **Laravel 12**
 - **PHP**
 - **MySQL**
 - **XAMPP** (for local development environment)
